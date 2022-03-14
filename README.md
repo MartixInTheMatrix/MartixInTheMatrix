@@ -4,4 +4,4 @@
 <img style="max-width:40%; height:auto; padding:40px" src="https://github-readme-stats.vercel.app/api?username=MartixInTheMatrix&theme=dark&show_icons=true">
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MartixInTheMatrix)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
