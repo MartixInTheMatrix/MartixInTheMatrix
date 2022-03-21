@@ -1,6 +1,8 @@
 # Hi there 👋
 - I'm Martix, 16y/o web developper.
 - Specialized in backend, I work in the shadow 🥷
+- I code with WebStorm and Visual Studio Code 💻
+- 
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=MartixInTheMatrix&theme=radical&show_icons=true)
