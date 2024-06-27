@@ -7,9 +7,9 @@ class Me extends Life.Boy<Father> {
   languages: string[];
 
   constructor(){
-    name = 'Martix';
-    age = 17;
-    langages = ['JS/TS', 'C#', 'Java', 'C', 'Python'];
+    this.name = 'Martix';
+    this.age = 17;
+    this.langages = ['JS/TS', 'C#', 'Java', 'C', 'Python'];
   }
 }
   
