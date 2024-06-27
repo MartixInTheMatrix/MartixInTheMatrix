@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ```ts
-class Me extends Life.Boy<Father> {
+class Me extends Life.Boy {
   name: string;
   age: number;
   languages: string[];
