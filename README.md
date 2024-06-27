@@ -4,7 +4,8 @@
 class Me extends Life.Boy<Father> {
   name: string;
   age: number;
-  languages: string[]
+  languages: string[];
+
   constructor(){
     name = 'Martix';
     age = 17;
