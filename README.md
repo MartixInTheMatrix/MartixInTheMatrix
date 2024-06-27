@@ -1,8 +1,15 @@
 # Hi there 👋
-_Specialized in backend, I work in the shadow 🥷_
 
 ```ts
-  const name: string = 'Martix'
-  var age: number = 17
-  let IDEs: IDE[] = [WebStorm, VSC]
+class Me extends Life.Boy<Father> {
+  name: string;
+  age: number;
+  languages: string[]
+  constructor(){
+    name = 'Martix';
+    age = 17;
+    langages = ['JS/TS', 'C#', 'Java', 'C', 'Python'];
+  }
+}
+  
 ```
