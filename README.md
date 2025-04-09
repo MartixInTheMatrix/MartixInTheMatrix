@@ -3,3 +3,5 @@
 
 ![Skills](https://skillicons.dev/icons?i=css,html,javascript,typescript,react,python,c,ocaml,&theme=dark)
 
+[![Martix's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartixInTheMatrix)](https://github.com/anuraghazra/github-readme-stats)
+
