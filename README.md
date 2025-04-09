@@ -3,17 +3,3 @@
 
 ![Skills](https://skillicons.dev/icons?i=css,html,javascript,typescript,react,python,c,ocaml,&theme=dark)
 
-```ts
-class Me extends Life.Boy {
-  name: string;
-  age: number;
-  languages: string[];
-
-  constructor(){
-    this.name = 'Martix';
-    this.age = 17;
-    this.langages = ['JS/TS', 'C#', 'Java', 'C', 'Python'];
-  }
-}
-  
-```
